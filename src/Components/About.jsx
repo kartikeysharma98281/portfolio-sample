@@ -65,7 +65,7 @@ const About = () => {
           color:"white"
         }}
       > 
-        <h2>About Myself</h2>
+        <h2 style={{color: "white"}}>About Myself</h2>
         <p className="large">{description}</p>
         <hr />
         <ul
